@@ -86,3 +86,7 @@
 2021-04-26 00:15:17,262 [main] INFO ebanking - Entered password
 2021-04-26 00:15:19,404 [main] INFO ebanking - oo ho submit button clicked
 2021-04-26 00:15:19,456 [main] INFO ebanking - Login test passed
+2021-06-19 20:05:09,690 [main] INFO ebanking - URL is opened
+2021-06-19 20:05:10,187 [main] INFO ebanking - Entered username
+2021-06-19 20:05:10,402 [main] INFO ebanking - Entered password
+2021-06-19 20:05:11,074 [main] INFO ebanking - oo ho submit button clicked
